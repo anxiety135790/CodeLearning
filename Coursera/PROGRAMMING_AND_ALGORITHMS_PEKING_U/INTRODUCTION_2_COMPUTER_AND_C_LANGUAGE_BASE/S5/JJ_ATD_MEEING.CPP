@@ -4,7 +4,7 @@ int main(){
 	int a;
 	cin >> a;
 	if(a == 1 or a == 3 or a == 5){
-		cout << "YES" << endl;
+		cout << "NO" << endl;
 	}
 	else{
 		cout << "YES" << endl;
