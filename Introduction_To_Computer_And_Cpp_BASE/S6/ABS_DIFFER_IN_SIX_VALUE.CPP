@@ -27,7 +27,7 @@ int main(){
         }
     }
 
-    cout << abs(maxJ - minO) << endl;//���
+    cout << abs(maxJ - minO) << endl;//output
 
     system("pause");
     return 0;
