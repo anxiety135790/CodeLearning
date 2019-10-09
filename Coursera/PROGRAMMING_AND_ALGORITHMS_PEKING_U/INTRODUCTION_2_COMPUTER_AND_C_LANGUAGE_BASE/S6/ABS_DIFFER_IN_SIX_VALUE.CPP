@@ -3,23 +3,23 @@ using namespace std;
 
 int main(){
 
-    int a[6];//´æ´¢6¸öÊı
+    int a[6]//è®¾å®šæ ·æœ¬å®¹é‡
     int maxJ = 0;
     int minO = 100;
 
-    for (int i = 0; i < 6; i++){//ÊäÈë
+    for (int i = 0; i < 6; i++)//éå†æ ·æœ¬
         cin >> a[i];
     }
 
     for (int i = 0; i < 6; i++){
-        if (a[i] % 2 == 0){//Ñ°ÕÒ×îĞ¡µÄÅ¼Êı
+        if (a[i] % 2 == 0; //judge template is even
             int tempO = a[i];
             if (tempO < minO){
                 minO = tempO;
             }
         }
 
-        if (a[i] % 2 != 0){//Ñ°ÕÒ×î´óµÄÆæÊı
+        if (a[i] % 2 != 0){ //judge template is odd
             int tempJ = a[i];
             if (tempJ > maxJ){
                 maxJ = tempJ;
@@ -27,7 +27,7 @@ int main(){
         }
     }
 
-    cout << abs(maxJ - minO) << endl;//Êä³ö
+    cout << abs(maxJ - minO) << endl;//ï¿½ï¿½ï¿½
 
     system("pause");
     return 0;
