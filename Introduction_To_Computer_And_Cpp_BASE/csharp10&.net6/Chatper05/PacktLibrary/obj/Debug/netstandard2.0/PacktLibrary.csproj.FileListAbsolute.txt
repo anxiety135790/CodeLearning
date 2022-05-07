@@ -1,0 +1,10 @@
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.AssemblyReference.cache
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+c:\Users\Barxhe1209\Documents\csharp10&.net6\Chatper05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
