@@ -41,6 +41,6 @@ static void WorkWithDrives()
 
     foreach (DriveInfo drive in DriveInfo.GetDrives())
     {
-        WriteLine
+        WriteLine("")
     }
 }
