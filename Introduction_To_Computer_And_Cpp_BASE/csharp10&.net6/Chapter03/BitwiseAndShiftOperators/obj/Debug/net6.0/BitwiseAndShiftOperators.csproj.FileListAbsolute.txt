@@ -1,5 +1,0 @@
-C:\Users\Barxhe1209\Documents\csharp10&.net6\Chapter03-ControlFlow\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.csproj.AssemblyReference.cache
-C:\Users\Barxhe1209\Documents\csharp10&.net6\Chapter03-ControlFlow\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Barxhe1209\Documents\csharp10&.net6\Chapter03-ControlFlow\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
-C:\Users\Barxhe1209\Documents\csharp10&.net6\Chapter03-ControlFlow\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfo.cs
-C:\Users\Barxhe1209\Documents\csharp10&.net6\Chapter03-ControlFlow\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
