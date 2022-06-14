@@ -31,24 +31,29 @@ static class Viper
         }
         text.Close();
 
-        WriteLine("{0} contains {1:N0} bytes.",
+        WriteLine(format: "{0} contains {1:N0} bytes.",
         arg0: textFile,
-        arg1: new FileInfo(textFile).Length);
+        arg1: new FileInfo(fileName: textFile).Length);
 
-        WriteLine(File.ReadAllText(textFile));
+        WriteLine(value: File.ReadAllText(path: textFile));
     }
 
     static void WorkWithXml()
     {
+        FileStream? xmlFileStream = null;
+        XmlWriter? xml = null;
+
+        try{
+
         //define a fiel to write to
-        string xmlFile = Combine(CurrentDirectory,"streams.xml");
+        string xmlFile = Combine(path1: CurrentDirectory,path2: "streams.xml");
 
         //create a file stream
-        FileStream xmlFileStream = File.Create(xmlFile);
+        xmlFileStream = File.Create(path: xmlFile);
 
         //wrap the file stream in an XML writer helper
         //and automatically indent nested elements
-        XmlWriter xml = XmlWriter.Create(xmlFileStream,
+        xml = XmlWriter.Create(xmlFileStream,
         new XmlWriterSettings {Indent = true});
 
         //write the XML declaration
@@ -71,11 +76,28 @@ static class Viper
         xmlFileStream.Close();
 
         //output all the contents of the file
-        WriteLine("{0} contains {1:N0} bytes",
+        WriteLine(format: "{0} contains {1:N0} bytes",
         arg0:xmlFile,
-        arg1:new FileInfo(xmlFile).Length);
-        WriteLine(File.ReadAllText(xmlFile));
-
+        arg1:new FileInfo(fileName: xmlFile).Length);
+        WriteLine(value: File.ReadAllText(path: xmlFile));
+        }
+        catch(Exception ex)
+        {
+            WriteLine(value: $"{ex.GetType()} says {ex.Message}");
+        }
+        finally
+        {
+            if(xml != null)
+            {
+                xml.Dispose();
+                WriteLine(value: "The xml writer's unmanaged resources have been disposed.");
+                if(xmlFileStream != null)
+                {
+                    xmlFileStream.Dispose();
+                    WriteLine(value: "The file stream's unmanaged resources have been disposed.");
+                }
+            }
+        }
 
     }
 }
