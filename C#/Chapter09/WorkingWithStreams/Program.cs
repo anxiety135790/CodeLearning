@@ -13,6 +13,7 @@ internal class Program
     {
         //WorkWithTest()
         WorkWithXml();
+        WorkWithCompression();
 
 
 
@@ -108,29 +109,41 @@ internal class Program
         }
     
 
-        static void WorkWithCompression()
+        static void WorkWithCompression(bool useBrotli = true)
         {
-            string fileText = "gzip";
-
+            //string fileText = "gzip";
+            string fileExt = useBrotli ? "brotli" : "gzip";
             //compress the XML outputs
             string filePath = Combine(
                 path1: CurrentDirectory,path2: $"streams.{fileText}"
             );
 
-            FileStream file = File.Create(filePath);
+            FileStream file = File.Create(path: filePath);
 
-            Stream compressor = new GZipStream(file,CompressionMode.Compress);
+            //Stream compressor = new GZipStream(stream: file,mode: CompressionMode.Compress);
+            Stream compressor;
+            if(useBrotli)
+            {
+                compressor = new BrotliStream(stream: file, mode: CompressionMode.Compress);
+            }
+            else
+            {
+                compressor = new GZipStream(stream:file, mode: CompressionMode.Compress);
+            }
 
+
+
+            //Compressor
             using(compressor)
             {
-                using(XmlWriter xml = XmlWriter.Create(compressor))
+                using(XmlWriter xml = XmlWriter.Create(output: compressor))
                 {
                     xml.WriteStartDocument();
-                    xml.WriteStartElement("callsigns");
+                    xml.WriteStartElement(localName: "callsigns");
 
                     foreach(string item in Viper.Callsigns)
                     {
-                        xml.WriteElementString("callsign",item);
+                        xml.WriteElementString(localName: "callsign",value: item);
                     }
 
                     //the normal call to WriteEndElement is not necessary
@@ -142,8 +155,51 @@ internal class Program
             //out all the contents of the compressed file
             WriteLine(format: "{0} contains {1:N0} bytes.",
             arg0: filePath,arg1: new FileInfo(fileName: filePath).Length);
+
+            WriteLine(format:$"The compressed contents;");
+            WriteLine(value: File.ReadAllText(path: filePath));
+            
+            //read a compressed file
+            WriteLine(value: "Reading the compressed XML file:");
+            file = File.Open(path: filePath, mode: FileMode.Open);
+
+            Stream decompressor;
+            if(useBrotli)
+            {
+                decompressor = new BrotliStream(
+                    stream: file,mode: CompressionMode.Decompress);
+
+            }
+            else
+            {
+                decompressor = new GZipStream(
+                    stream: file, mode: CompressionMode.Decompress);
+                
+            }
+
+            //Stream decompressor = new GZipStream(stream: file,
+            //mode: CompressionMode.Decompress);
+
+            //Decompressor
+            using (decompressor)
+            {
+                using(XmlReader reader = XmlReader.Create(input: decompressor))
+                {
+                    while(reader.Read())
+                    {
+                        //check if we are on an element node named callsign
+                        if((reader.NodeType == XmlNodeType.Element)
+                        && (reader.Name == "callsign"))
+                        {
+                            reader.Read();
+                            WriteLine(value: $"{reader.Value}");
+                        }
+                    }
+                }
+            }
         }
     
+
     }
 }
 
