@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgHXiLR//0sN6BLbju+6v5whi+Vz/ffeQdWmGTKnWodLStYlVSzgE1oAr+L+KXbEB2oVCAp0o6W+4Fg+HkuNHQ==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/CodeLearning/C#/Chapter09/WorkingWithSerialization/WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
