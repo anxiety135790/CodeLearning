@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = SelectionStatements
-build_property.ProjectDir = /home/anxiety135790/Documents/CodeLearning/C#/Chapter03/SelectionStatements/
+build_property.RootNamespace = WorkingWithFileSystem
+build_property.ProjectDir = /home/anxiety135790/Documents/CodeLearning/C#/Chapter09/WorkingWithFileSystem/
