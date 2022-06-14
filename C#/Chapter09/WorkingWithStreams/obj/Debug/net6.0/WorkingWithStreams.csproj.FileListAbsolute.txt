@@ -1,5 +1,0 @@
-/home/anxiety135790/Documents/C#/CodeLearning/C#/Chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.csproj.AssemblyReference.cache
-/home/anxiety135790/Documents/C#/CodeLearning/C#/Chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
-/home/anxiety135790/Documents/C#/CodeLearning/C#/Chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.AssemblyInfoInputs.cache
-/home/anxiety135790/Documents/C#/CodeLearning/C#/Chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.AssemblyInfo.cs
-/home/anxiety135790/Documents/C#/CodeLearning/C#/Chapter09/WorkingWithStreams/obj/Debug/net6.0/WorkingWithStreams.csproj.CoreCompileInputs.cache
