@@ -121,4 +121,3 @@ using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
             p.LastName, p.Children?.Count ?? 0);
         }
     }
-}
