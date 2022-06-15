@@ -27,11 +27,22 @@ JsonSerializerOptions options = new JsonSerializerOptions()
     PropertyNamingPolicy = JsonNamingPolicy.CamelCase
 };
 
-string filePath = Combine(CurrentDirectory, "book.json");
+string filePath = Combine(path1: CurrentDirectory, path2: "book.json");
 
-using (stream fileStream = File.Create(filePath))
+using (stream fileStream = File.Create(path: filePath))
 {
-    JsonSer
+    JsonSerializer.Serialize<Book>(
+    utf8Json: fileStream, value: csharp10, options);
+
+    WriteLine(format:"Written {0:N0} bytes of JSON to {1)",
+    arg0: new FileInfo(fileName: filePath).Length,
+    arg1: filePath);
+
+    WriteLine();
+;
+    //Display  the serialized object graph
+    WriteLine(value: File.ReadAllText(path: filePath));
+    
 }
 
 public class Book
