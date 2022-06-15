@@ -105,9 +105,20 @@ arg1:jsonPath);
 WriteLine(value: File.ReadAllText(path: jsonPath));
 
 
-//using NewJson = System.Text.Json.JsonSerializer;
+using NewJson = System.Text.Json.JsonSerializer;
 
-// using(FileStream jsonLoad = File.Open(path: jsonPath, mode: FileMode.Open))
-// {
-    
-// }
+using (FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+{
+    //deserialize object graph into a list of Person
+    List<Person>? loadedPeople = 
+    await NewJson.DeserializeAsync(utf8Json: jsonLoad);
+
+    if (loadedPeople is not null)
+    {
+        foreach (Person p in loadedPeople)
+        {
+            WriteLine("{0} has {1} children.",
+            p.LastName, p.Children?.Count ?? 0);
+        }
+    }
+}
