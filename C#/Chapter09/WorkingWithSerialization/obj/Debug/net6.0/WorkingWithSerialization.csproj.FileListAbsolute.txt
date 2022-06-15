@@ -3,15 +3,15 @@ C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CopyComplete
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\refint\WorkingWithSerialization.dll
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
 C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
-C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\tianyu.xie\Documents\CodeLearning\C#\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CopyComplete

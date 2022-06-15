@@ -8,8 +8,14 @@ using Packt.Shared;
 using static System.Console;
 using static System.Environment;
 using static System.IO.Path;
+using  System.Text.Json;
 
 
+/// <summary>
+/// 
+/// </summary>
+/// <typeparam name="Person"></typeparam>
+/// <returns></returns>
 List<Person> people = new List<Person>()
 {
     new Person(initialiSalary: 30000M)
@@ -42,13 +48,14 @@ List<Person> people = new List<Person>()
 
 };
 
+
+
 XmlSerializer xs = new XmlSerializer(type: people.GetType());
 
 //create a file to write to
 string path = Combine(path1: CurrentDirectory, path2: "people.xml");
 
 using (FileStream stream = File.Create(path: path))
-
 {
     xs.Serialize(stream: stream, o: people);
 
@@ -78,6 +85,8 @@ using (FileStream xmlLoad = File.Open(path: path, mode: FileMode.Open))
 }
 
 
+//Create a text file and serizlize with Json
+//textWriter: jsonStream value:List<Person> people
 string jsonPath = Combine(path1: CurrentDirectory, path2: "people.json");
 
 using(StreamWriter jsonStream = File.CreateText(path: jsonPath))
@@ -94,3 +103,11 @@ arg1:jsonPath);
 
 //Display the serialized object graph
 WriteLine(value: File.ReadAllText(path: jsonPath));
+
+
+//using NewJson = System.Text.Json.JsonSerializer;
+
+// using(FileStream jsonLoad = File.Open(path: jsonPath, mode: FileMode.Open))
+// {
+    
+// }
