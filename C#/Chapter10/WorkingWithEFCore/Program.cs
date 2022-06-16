@@ -2,3 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 
+using static System.Console;
+
+WriteLine($"Using {ProjectConstants.DatabaseProvider}" database Provider.");
+
