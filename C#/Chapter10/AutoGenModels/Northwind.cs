@@ -1,5 +1,11 @@
 using Micorsoft.EntityFrameworkCore;
-using System.Console;
+// using System.Console;
+using System;
+using static System.Console;
+using static System.Math;
+
+
+
 
 namespace WorkWithEFCore.AutoGen
 {
@@ -20,7 +26,7 @@ namespace WorkWithEFCore.AutoGen
             }
 
         public virtual DbSet<Category> Categories {get; set; } = null;
-        public virtual DbSet<Product> Products {get; set; } = null;
+         public virtual DbSet<Product> Products {get; set; } = null;
 
         protected override void OnConfiguring(
             DbContextOptionBuilder optionsBuilder)
