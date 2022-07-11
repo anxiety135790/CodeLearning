@@ -1,6 +1,5 @@
 using Micorsoft.EntityFrameworkCore;
 using System.Console;
-using System;
 
 namespace WorkWithEFCore.AutoGen
 {
