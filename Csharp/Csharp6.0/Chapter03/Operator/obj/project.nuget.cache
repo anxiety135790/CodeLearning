@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vaCjx2TWhAZyF0aec9hDd0IxhOOI8Wc5g4/N6Awyp//aSirFDhhyFN7+pn7B6G/5GS+Y5bacLc+warlQgVSLpg==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/Operator/Operator.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

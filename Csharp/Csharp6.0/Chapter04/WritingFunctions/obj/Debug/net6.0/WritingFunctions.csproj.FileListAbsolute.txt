@@ -1,0 +1,16 @@
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/WritingFunctions
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/WritingFunctions.deps.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/WritingFunctions.runtimeconfig.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/WritingFunctions.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/ref/WritingFunctions.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/WritingFunctions.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/bin/Debug/net6.0/YourApi.XML
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.csproj.AssemblyReference.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.AssemblyInfo.cs
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/ref/WritingFunctions.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/obj/Debug/net6.0/WritingFunctions.genruntimeconfig.cache

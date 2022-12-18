@@ -1,0 +1,12 @@
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/bin/Debug/net6.0/CalculatorLib.deps.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/bin/Debug/net6.0/CalculatorLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/bin/Debug/net6.0/ref/CalculatorLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/bin/Debug/net6.0/CalculatorLib.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.csproj.AssemblyReference.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.AssemblyInfoInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.AssemblyInfo.cs
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/ref/CalculatorLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CalculatorLib/obj/Debug/net6.0/CalculatorLib.pdb

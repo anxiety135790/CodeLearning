@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Instrumenting/Instrumenting.csproj": {}
+  },
+  "projects": {
+    "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Instrumenting/Instrumenting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Instrumenting/Instrumenting.csproj",
+        "projectName": "Instrumenting",
+        "projectPath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Instrumenting/Instrumenting.csproj",
+        "packagesPath": "/home/anxiety135790/.nuget/packages/",
+        "outputPath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Instrumenting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anxiety135790/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.112/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

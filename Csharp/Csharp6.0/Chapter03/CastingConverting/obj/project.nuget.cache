@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJABIY0udWFkGnwQcPLmlMW8QoDd2+IOZiNZnd75y1GQ3XNXwpgtEpT40c6BcPpndgaFnIsqe92KRVzjTbe7Bw==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/CastingConverting/CastingConverting.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

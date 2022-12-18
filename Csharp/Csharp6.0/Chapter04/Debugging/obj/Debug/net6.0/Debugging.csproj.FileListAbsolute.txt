@@ -1,0 +1,15 @@
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/Debugging
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/Debugging.deps.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/Debugging.runtimeconfig.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/Debugging.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/ref/Debugging.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/bin/Debug/net6.0/Debugging.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.csproj.AssemblyReference.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.AssemblyInfoInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.AssemblyInfo.cs
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.csproj.CoreCompileInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/ref/Debugging.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/Debugging/obj/Debug/net6.0/Debugging.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.deps.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.runtimeconfig.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/ref/BitwiseAndShiftOperators.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/bin/Debug/net6.0/BitwiseAndShiftOperators.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/ref/BitwiseAndShiftOperators.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/BitwiseAndShiftOperators/obj/Debug/net6.0/BitwiseAndShiftOperators.genruntimeconfig.cache

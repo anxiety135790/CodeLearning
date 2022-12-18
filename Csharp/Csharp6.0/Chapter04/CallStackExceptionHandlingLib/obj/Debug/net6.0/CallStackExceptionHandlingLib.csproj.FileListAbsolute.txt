@@ -1,0 +1,12 @@
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net6.0/CallStackExceptionHandlingLib.deps.json
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net6.0/CallStackExceptionHandlingLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net6.0/ref/CallStackExceptionHandlingLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net6.0/CallStackExceptionHandlingLib.pdb
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.csproj.AssemblyReference.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.AssemblyInfo.cs
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/ref/CallStackExceptionHandlingLib.dll
+/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net6.0/CallStackExceptionHandlingLib.pdb

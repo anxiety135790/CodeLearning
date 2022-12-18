@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2NVRRnUk+ZYfld3MIUNyNsfracBabsKEjkxjZfmozeS0tMPRLyE6EjiPbK7mxTsH16mP3Xtucw81sxqfhmef5Q==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/Practise loops and operators/Practise loops and operators.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80I69LxX+w6xGgax5BbUCm0ROsZMXNzNRiGKQVUjSufKDCXB68LwZm50NqwSw7fHUoIV88yaBMtwyJhEj1Dyvw==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter04/WritingFunctions/WritingFunctions.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

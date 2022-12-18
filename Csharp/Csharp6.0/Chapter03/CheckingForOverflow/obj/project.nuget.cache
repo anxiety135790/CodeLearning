@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaCf6AZ+6n72Oe2Xe1+3EBWZtFVITN4hNar1Lu4+F1/RC0U4oHY8oFxrH2xKmvPcIzZE6xQy5DzAo+MZEmvE7w==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter03/CheckingForOverflow/CheckingForOverflow.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
