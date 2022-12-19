@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "avFVQWa9AOFRDDouxOAdTSVmx/4/2XHbhjO1/vgBvFXWnfPJsCHK/c6CsCNT+pIbS/GwmLsx9MrVNicmVo5IBw==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter05/PeopleApp/PeopleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

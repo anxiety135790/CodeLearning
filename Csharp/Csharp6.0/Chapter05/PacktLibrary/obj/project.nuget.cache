@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQMM/z+z3N/0Kwie9SJEtvq3gfO6EPhbekx4n/c7b9nBvC+WK/7cY1iDUmd9rAuUGX0raizlgRfV/LPAWhylQw==",
+  "success": true,
+  "projectFilePath": "/home/anxiety135790/Documents/GitHub/CodeLearning/Csharp/Csharp6.0/Chapter05/PacktLibrary/PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/anxiety135790/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/anxiety135790/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

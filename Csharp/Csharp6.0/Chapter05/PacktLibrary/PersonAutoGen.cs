@@ -11,38 +11,39 @@ namespace Packt.Shared
             }
         }
 
-        public string Greeting =>  $"{Name} says 'Hello!'";
+        public string Greeting => $"{Name} says 'Hello!'";
 
-        public int Age =>System.DateTime.Today.Year - DateOfBirth.Year;
-    
+        public int Age => System.DateTime.Today.Year - DateOfBirth.Year;
 
-    public string FavoriteIceCream {get; set;}
 
-    private string favoritePrimaryColor;
+        public string FavoriteIceCream { get; set; }
 
-    public string FavoritePrimaryColor
-    {
-        get
+        private string favoritePrimaryColor;
+
+        public string FavoritePrimaryColor
         {
-            return favoritePrimaryColor;
-        }
-        set
-        {
-            switch(value.ToLower())
+            get
             {
-                case "red":
-                case "green":
-                case "blue":
-                    favouritePrimaryColor = value;
-                    break;
-                default:
-                    throw new System.ArgumentException(
-                        $"{value} is not a primary color." +
-                        "Choose from: red, green, blue.");
+                return favoritePrimaryColor;
+            }
+            set
+            {
+                switch (value.ToLower())
+                {
+                    case "red":
+                    case "green":
+                    case "blue":
+                        favouritePrimaryColor = value;
+                        break;
+                    default:
+                        throw new System.ArgumentException(
+                            $"{value} is not a primary color." +
+                            "Choose from: red, green, blue.");
+                }
             }
         }
     }
-  }
+
     public Person this[int index]
     {
         get

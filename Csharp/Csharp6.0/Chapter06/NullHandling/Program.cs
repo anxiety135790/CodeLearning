@@ -3,7 +3,6 @@
 using static System.Console;
 
 
-
 int thisCoudldBeNull = 4;
 //thisCannotBeNull = null; //compile error
 
