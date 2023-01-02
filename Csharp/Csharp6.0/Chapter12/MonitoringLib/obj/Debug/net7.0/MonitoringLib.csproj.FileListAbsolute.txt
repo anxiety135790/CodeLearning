@@ -1,0 +1,12 @@
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\bin\Debug\net7.0\MonitoringLib.deps.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\bin\Debug\net7.0\MonitoringLib.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\bin\Debug\net7.0\MonitoringLib.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\refint\MonitoringLib.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\MonitoringLib.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\Csharp6.0\Chapter12\MonitoringLib\obj\Debug\net7.0\ref\MonitoringLib.dll
