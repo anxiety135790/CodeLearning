@@ -30,7 +30,7 @@ Stopwatch timer = Stopwatch.StartNew();
  Task taskB = Task.Factory.StartNew(MethodB);
  Task taskC = Task.Run(MethodC);
 
- WriteLine("{timer.ElapsedMilliseconds:#,##0}ms elapsed.");
+ WriteLine("{timer.ElapsedMilliseconds:#,##0} ms elapsed.");
 
 
 static void MethodA()
