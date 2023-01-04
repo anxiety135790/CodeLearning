@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\Csharp6.0\\Chapter12\\MonitoringLib\\MonitoringLib.csproj": {}
+    "C:\\Users\\tianyu.xie\\Documents\\Chapter12\\MonitoringLib\\MonitoringLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\Csharp6.0\\Chapter12\\MonitoringLib\\MonitoringLib.csproj": {
+    "C:\\Users\\tianyu.xie\\Documents\\Chapter12\\MonitoringLib\\MonitoringLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\Csharp6.0\\Chapter12\\MonitoringLib\\MonitoringLib.csproj",
+        "projectUniqueName": "C:\\Users\\tianyu.xie\\Documents\\Chapter12\\MonitoringLib\\MonitoringLib.csproj",
         "projectName": "MonitoringLib",
-        "projectPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\Csharp6.0\\Chapter12\\MonitoringLib\\MonitoringLib.csproj",
-        "packagesPath": "C:\\Users\\Barxhe1209\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\Csharp6.0\\Chapter12\\MonitoringLib\\obj\\",
+        "projectPath": "C:\\Users\\tianyu.xie\\Documents\\Chapter12\\MonitoringLib\\MonitoringLib.csproj",
+        "packagesPath": "C:\\Users\\tianyu.xie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tianyu.xie\\Documents\\Chapter12\\MonitoringLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Barxhe1209\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tianyu.xie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,16 +35,15 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

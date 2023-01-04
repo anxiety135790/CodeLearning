@@ -1,0 +1,12 @@
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.deps.json
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.dll
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.pdb
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.dll
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\refint\MonitoringLib.dll
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.pdb
+C:\Users\tianyu.xie\Documents\Chapter12\MonitoringLib\obj\Debug\net6.0\ref\MonitoringLib.dll
