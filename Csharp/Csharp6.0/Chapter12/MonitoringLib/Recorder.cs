@@ -3,50 +3,48 @@
 using static System.Console;
 using static System.Diagnostics.Process;
 
+
 namespace Packt.Shared;
 
 public static class Recorder
 {
-    private static Stopwatch timer = new();
-
-    private static long bytesPhysicalBefore = 0;
+    private static Stopwatch timer = new(); 
+    
+    private static long bytesPhysiacalBefore = 0;
     private static long bytesVirtualBefore = 0;
 
     public static void Start()
     {
-        //force two garbage collections to release memory that is 
-        //no longer refreenced but has not been released yet
-
         GC.Collect();
         GC.WaitForPendingFinalizers();
         GC.Collect();
 
-        //store the current physical and virtual memoy use
-        bytesPhysicalBefore = GetCurrentProcess().WorkingSet64;
-        bytesVirtualBefore = GetCurrentProcess().VirtualMemorySize64;
-
+        bytesPhysiacalBefore = GetCurrentProcess().WorkingSet64;
+        bytesVirtualBefore = GetCurrentProcess().VirtualMemorySize64; 
         timer.Restart();
-
+        
     }
 
     public static void Stop()
     {
         timer.Stop();
         
-        long bytesPhysicalAfter = 
+        long bytesPhysiacalAfter = 
         GetCurrentProcess().WorkingSet64;
 
         long bytesVirtualAfter = 
         GetCurrentProcess().VirtualMemorySize64;
 
-        WriteLine("{0:N0} physical bytes used.",
-        bytesPhysicalAfter - bytesPhysicalBefore);
+        WriteLine("{0:N0} physiacal bytes used.",
+        bytesPhysiacalAfter - bytesPhysiacalBefore);
 
-        WriteLine("{0:N0} Virtual bytes used.",
+        WriteLine("{0:N0} virtual bytes used.",
         bytesVirtualAfter - bytesVirtualBefore);
 
-        WriteLine("{0} time span ellapsed.", arg0: timer.Elapsed);
-        
-        WriteLine("{0:N0} total milliseconds ellapsed.", timer.ElapsedMilliseconds);
+        WriteLine("{0} time span ellapsed.", timer.Elapsed);
+
+        WriteLine("{0:N0} total miliseconds ellapsed.", 
+        timer.ElapsedMilliseconds);
     }
+     
 }
