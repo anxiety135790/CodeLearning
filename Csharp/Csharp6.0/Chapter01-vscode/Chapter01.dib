@@ -1,3 +1,0 @@
-#!csharp
-
-Console.WriteLine("Hello, .NET Interactive!")
