@@ -17,24 +17,18 @@ int[] largeArrahyOfInts = Enumerable.Range(
 int[] numbers = Enumerable.Range(
     start: 1, count: 50_000).ToArray();
 
-
-WriteLine("Using string with +");
+WriteLine("");
 Recorder.Start();
 
-string s = string.Empty; //i.e. ""
-for(int i = 0; i < numbers.Length; i++)
-{
-    s += numbers[i] + ", ";
-}
-Recorder.Stop();
+string s = string.Empty;
+System.Text.StringBuilder builder = new();
 
-WriteLine("Using StringBuilder");
-Recorder.Start();
-System.Text.StringBuilder builder = new ();
-for (int i = 0; i<numbers.Length; i++ )
+
+
+for( int i = 0; i < numbers.Length; i++)
 {
     builder.Append(numbers[i]);
     builder.Append(", ");
-}  
-Recorder.Stop();
 
+}
+Recorder.Stop();

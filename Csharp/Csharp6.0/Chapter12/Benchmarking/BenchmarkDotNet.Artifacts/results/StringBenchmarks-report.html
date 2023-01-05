@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>StringBenchmarks-20230104-234613</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.22621
+12th Gen Intel Core i5-1230U, 1 CPU, 12 logical and 10 physical cores
+.NET SDK=7.0.100
+  [Host]     : .NET 7.0.0 (7.0.22.51805), X64 RyuJIT
+  DefaultJob : .NET 7.0.0 (7.0.22.51805), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>           Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Ratio</th><th>RatioSD</th>
+</tr>
+</thead><tbody><tr><td>StringConcatenationTest</td><td>17.01 ns</td><td>0.403 ns</td><td>1.181 ns</td><td>16.78 ns</td><td>1.00</td><td>0.00</td>
+</tr><tr><td>StringBuilderTest</td><td>24.29 ns</td><td>0.575 ns</td><td>1.687 ns</td><td>23.79 ns</td><td>1.43</td><td>0.14</td>
+</tr></tbody></table>
+</body>
+</html>
