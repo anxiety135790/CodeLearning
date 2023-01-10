@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net6.0
+build_property.TargetFramework = net7.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = SelectionStatements
-build_property.ProjectDir = c:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter03\SelectionStatements\
+build_property.RootNamespace = WorkingWithTasks
+build_property.ProjectDir = c:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\WorkingWithTasks\
