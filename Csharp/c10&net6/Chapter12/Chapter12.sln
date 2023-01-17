@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoringLib", "Monitoring
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarking", "Benchmarking\Benchmarking.csproj", "{C69A1B39-B33B-4473-9836-F78B2D1E94C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizingResourceAccess", "SynchronizingResourceAccess\SynchronizingResourceAccess.csproj", "{F69CBAD3-0F3B-485A-80FE-9B6C0BD7B067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C69A1B39-B33B-4473-9836-F78B2D1E94C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C69A1B39-B33B-4473-9836-F78B2D1E94C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C69A1B39-B33B-4473-9836-F78B2D1E94C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69CBAD3-0F3B-485A-80FE-9B6C0BD7B067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69CBAD3-0F3B-485A-80FE-9B6C0BD7B067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69CBAD3-0F3B-485A-80FE-9B6C0BD7B067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69CBAD3-0F3B-485A-80FE-9B6C0BD7B067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

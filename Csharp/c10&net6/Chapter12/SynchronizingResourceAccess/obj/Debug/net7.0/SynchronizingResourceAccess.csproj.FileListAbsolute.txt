@@ -1,0 +1,15 @@
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\bin\Debug\net7.0\SynchronizingResourceAccess.exe
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\bin\Debug\net7.0\SynchronizingResourceAccess.deps.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\bin\Debug\net7.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\bin\Debug\net7.0\SynchronizingResourceAccess.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\bin\Debug\net7.0\SynchronizingResourceAccess.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\refint\SynchronizingResourceAccess.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\SynchronizingResourceAccess\obj\Debug\net7.0\ref\SynchronizingResourceAccess.dll

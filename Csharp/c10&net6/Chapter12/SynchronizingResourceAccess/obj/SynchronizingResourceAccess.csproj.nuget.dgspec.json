@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\Benchmarking\\Benchmarking.csproj": {}
+    "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\Benchmarking\\Benchmarking.csproj": {
+    "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\Benchmarking\\Benchmarking.csproj",
-        "projectName": "Benchmarking",
-        "projectPath": "c:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\Benchmarking\\Benchmarking.csproj",
+        "projectUniqueName": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj",
+        "projectName": "SynchronizingResourceAccess",
+        "projectPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj",
         "packagesPath": "C:\\Users\\Barxhe1209\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\Benchmarking\\obj\\",
+        "outputPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Barxhe1209\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "BenchmarkDotNet": {
-              "target": "Package",
-              "version": "[0.13.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

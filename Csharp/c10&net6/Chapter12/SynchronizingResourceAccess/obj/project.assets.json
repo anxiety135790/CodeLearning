@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\NestedAndChildTasks\\NestedAndChildTasks.csproj",
-      "projectName": "NestedAndChildTasks",
-      "projectPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\NestedAndChildTasks\\NestedAndChildTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj",
+      "projectName": "SynchronizingResourceAccess",
+      "projectPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\SynchronizingResourceAccess.csproj",
       "packagesPath": "C:\\Users\\Barxhe1209\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\NestedAndChildTasks\\obj\\",
+      "outputPath": "C:\\Users\\Barxhe1209\\Documents\\GitHub\\CodeLearning\\Csharp\\c10&net6\\Chapter12\\SynchronizingResourceAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Barxhe1209\\AppData\\Roaming\\NuGet\\NuGet.Config"
