@@ -1,0 +1,5 @@
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\AsyncConsole\obj\Debug\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter12\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache

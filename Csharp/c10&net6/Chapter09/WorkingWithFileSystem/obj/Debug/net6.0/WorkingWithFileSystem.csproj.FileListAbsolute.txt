@@ -1,0 +1,15 @@
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithFileSystem.exe
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithFileSystem.deps.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithFileSystem.runtimeconfig.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithFileSystem.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithFileSystem.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.csproj.AssemblyReference.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.AssemblyInfoInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.AssemblyInfo.cs
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\refint\WorkingWithFileSystem.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithFileSystem.genruntimeconfig.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\ref\WorkingWithFileSystem.dll

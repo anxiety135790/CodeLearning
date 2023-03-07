@@ -1,0 +1,15 @@
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithJson.exe
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithJson.deps.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithJson.runtimeconfig.json
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithJson.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\bin\Debug\net6.0\WorkingWithJson.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\refint\WorkingWithJson.dll
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.pdb
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\Barxhe1209\Documents\GitHub\CodeLearning\Csharp\c10&net6\Chapter09\WorkingWithFileSystem\obj\Debug\net6.0\ref\WorkingWithJson.dll

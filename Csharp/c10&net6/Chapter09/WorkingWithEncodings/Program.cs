@@ -38,8 +38,7 @@ WriteLine();
 WriteLine($"BYTE MEX CHAR");
 foreach(byte b in encoded)
 {
-    WriteLine($"{b,4} {b.ToString('X'),4} {(char)b,5}");
-
+    WriteLine($"{b,4} {b.ToString("X"),4} {(char)b,5}");
 }
 
 // decode the byte array back into a string and display it

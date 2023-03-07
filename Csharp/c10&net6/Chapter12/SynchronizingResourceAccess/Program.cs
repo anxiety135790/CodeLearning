@@ -45,8 +45,9 @@ WriteLine($"Messages: {SharedObjects.Messages}");
 WriteLine($"Elapsed time: {watch.ElapsedMilliseconds:N0} ms");
 
 
-static class SharedObjects
+static class SharedObjects 
 {
+    
     public static Random random = new Random();
     public static string Messages = ""; // shared resource
 }
